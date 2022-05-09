@@ -1,3 +1,17 @@
 .card-docente{
     margin: auto;
 }
+
+li{
+    text-decoration: none;
+}
+
+.docente-container{
+    width: 300px;
+    margin: auto;
+    padding: auto;
+}
+
+h2{
+    color: #303F9F;
+}

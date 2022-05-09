@@ -8,6 +8,7 @@ import { FooterComponent } from './footer/footer.component';
 import { BeneficiosComponent } from './beneficios/beneficios.component';
 import { CaracteristicasCarreraComponent } from './caracteristicas-carrera/caracteristicas-carrera.component';
 import { DocentesTiempoCompletoComponent } from './docentes-tiempo-completo/docentes-tiempo-completo.component';
+import { DondeTrabajarComponent } from './donde-trabajar/donde-trabajar.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { DocentesTiempoCompletoComponent } from './docentes-tiempo-completo/doce
     FooterComponent,
     BeneficiosComponent,
     CaracteristicasCarreraComponent,
-    DocentesTiempoCompletoComponent
+    DocentesTiempoCompletoComponent,
+    DondeTrabajarComponent
   ],
   imports: [
     BrowserModule,
